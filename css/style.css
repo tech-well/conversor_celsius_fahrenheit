@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid  rgb(102, 150, 80); ;
+    
+ }
+
+ .container{
+    width: 500px;
+    box-shadow: green 1px 2px 20px 1px ;
+    border-radius: 50px;
+    text-align: center;
+    color: rgb(102, 150, 80);
+ }
+
+ input{
+    outline: none;
+    border: none;
+ }
+
+
+   
+    
